@@ -26,9 +26,11 @@ Yes! Just wait a few months.
 For a test, clone this repo, run `npm i`, then run `npm test`.
 
 Image before PENIS:
+
 ![Image before PENIS](test_image.png)
 
 Image after PENIS (19638 random 24-bit integers):
+
 ![Image after PENIS](output_image.png)
 
 Please refrain from using the test image outside of PENIS without my permission. Thank you!
