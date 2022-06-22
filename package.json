@@ -1,0 +1,14 @@
+{
+  "name": "penis",
+  "version": "1.0.0",
+  "description": "Picture-based Encrypted Non-detectable Integrated Storage is a steganographic encrypted storage program.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "parabirb",
+  "license": "Unlicense",
+  "dependencies": {
+    "bmp-js": "^0.1.0"
+  }
+}
